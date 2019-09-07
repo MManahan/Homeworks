@@ -1,0 +1,5 @@
+1. As you get closer to the equator, the temperature generally gets higher. Although it is not highest RIGHT at the equator. It seems the highest temperatures at that given day where the data was taken as at a Latitude of 20 degrees. 
+
+2. Humidity is a little bit more spread out based on proximity to equator except that we can see a tightly packed cluster of cities near the equator with close to 100% humidity. 
+
+3. There is generally lower wind speed as you get closer to the equator. 

@@ -1,0 +1,5 @@
+1. There are significantly more Pyber users in the urban city type which makes sense when you think of a city like New York. There are so many taxes and cars on the road and minimal parking for your car, so it is easier and more cost effective to use a car service like Pyber
+
+2. The cost of Pyber rides are much are more spread out in the Rural City Type. I can see that in rural areas, the distances from start point to end point could be much further apart than urban cities. 
+
+3. The amount of drivers in each city type correspond with the amount of rides. There will always be more drivers and activity in the urban areas. 
